@@ -58,13 +58,13 @@
         "moment": "^2.29.4",
         "p-limit": "^3.1.0",
         "privacy-scan-core": "workspace:*",
-        "puppeteer": "^23.5.0",
+        "puppeteer": "^24.2.0",
         "puppeteer-extra": "^3.3.6",
         "puppeteer-extra-plugin": "^3.2.3",
         "puppeteer-extra-plugin-stealth": "^2.11.2",
         "reflect-metadata": "^0.1.13",
         "scanner-global-library": "workspace:*",
-        "service-library": "workspace:*",
+        "service-library": "0.0.1",
         "storage-documents": "workspace:*",
         "yargs": "^17.6.2"
     }
