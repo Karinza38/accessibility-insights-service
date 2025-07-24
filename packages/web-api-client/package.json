@@ -38,8 +38,8 @@
         "got": "^11.8.5",
         "inversify": "^6.0.1",
         "lodash": "^4.17.21",
-        "logger": "workspace:*",
+        "logger": "0.0.1",
         "reflect-metadata": "^0.1.13",
-        "service-library": "workspace:*"
+        "service-library": "0.0.1"
     }
 }
