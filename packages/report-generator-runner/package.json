@@ -50,11 +50,11 @@
         "@azure/cosmos": "^4.0.0",
         "applicationinsights": "^2.3.1",
         "azure-services": "workspace:*",
-        "common": "workspace:*",
+        "common": "0.1.0",
         "dotenv": "^16.0.1",
         "inversify": "^6.0.1",
         "lodash": "^4.17.21",
-        "logger": "workspace:*",
+        "logger": "0.0.1",
         "moment": "^2.29.4",
         "p-limit": "^3.1.0",
         "puppeteer": "^23.5.0",
@@ -63,7 +63,7 @@
         "puppeteer-extra-plugin-stealth": "^2.11.2",
         "reflect-metadata": "^0.1.13",
         "scanner-global-library": "workspace:*",
-        "service-library": "workspace:*",
+        "service-library": "0.0.1",
         "storage-documents": "workspace:*",
         "yargs": "^17.6.2"
     }
