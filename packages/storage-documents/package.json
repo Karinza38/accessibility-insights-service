@@ -34,9 +34,9 @@
     },
     "dependencies": {
         "axe-result-converter": "workspace:*",
-        "common": "workspace:*",
+        "common": "0.1.0",
         "inversify": "^6.0.1",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "reflect-metadata": "^0.1.13"
     }
 }
