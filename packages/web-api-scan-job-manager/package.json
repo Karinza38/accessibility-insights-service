@@ -46,14 +46,14 @@
         "@azure/ms-rest-nodeauth": "^3.1.1",
         "applicationinsights": "^2.3.1",
         "azure-services": "workspace:*",
-        "common": "workspace:*",
+        "common": "0.1.0",
         "dotenv": "^16.0.1",
         "inversify": "^6.0.1",
-        "lodash": "^4.17.21",
-        "logger": "workspace:*",
+        "lodash": "^4.17.23",
+        "logger": "0.0.1",
         "moment": "^2.29.4",
         "reflect-metadata": "^0.1.13",
-        "service-library": "workspace:*",
+        "service-library": "0.0.1",
         "storage-documents": "workspace:*",
         "yargs": "^17.6.2"
     }
